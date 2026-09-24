@@ -1,6 +1,6 @@
 # Elliot Steffensen
 
-Year 2 Computer Engineering student at [KTH](https://www.kth.se/en) in Stockholm.
+Year 3 Computer Engineering student at [KTH](https://www.kth.se/en) in Stockholm.
 Most of my recent work is in C — HTTP, IoT, and an embedded course capstone.
 
 ## Currently
